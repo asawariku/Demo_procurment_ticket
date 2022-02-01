@@ -9,6 +9,7 @@ namespace RampUp.Controllers
 
     //Server change
     //Lock applied
+    //change2
     public class HomeController : Controller
     {
         public ActionResult Index()
