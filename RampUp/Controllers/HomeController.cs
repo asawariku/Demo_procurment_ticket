@@ -14,6 +14,7 @@ namespace RampUp.Controllers
     //change3
     //shelving
     //shelving 2
+    //Suspend and Resume
     public class HomeController : Controller
     {
         public ActionResult Index()
