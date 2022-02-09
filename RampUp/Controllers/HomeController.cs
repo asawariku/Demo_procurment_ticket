@@ -17,6 +17,7 @@ namespace RampUp.Controllers
     //Suspend and Resume
     //change 4
     //checking
+    //checking 2
     public class HomeController : Controller
     {
         public ActionResult Index()
