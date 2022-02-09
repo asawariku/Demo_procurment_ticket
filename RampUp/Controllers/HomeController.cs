@@ -22,6 +22,7 @@ namespace RampUp.Controllers
     //lock applied
     //compare2
     //compare
+    //tracebility
     public class HomeController : Controller
     {
         public ActionResult Index()
