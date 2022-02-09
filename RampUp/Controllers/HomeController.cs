@@ -26,6 +26,8 @@ namespace RampUp.Controllers
     //checkin policy
     //code review
     //shelving
+    //shelving2
+    //suspend and resume
     public class HomeController : Controller
     {
         public ActionResult Index()
