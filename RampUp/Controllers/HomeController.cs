@@ -23,7 +23,7 @@ namespace RampUp.Controllers
     //compare2
     //compare
     //tracebility
-    //rollback
+    //checkin policy
     public class HomeController : Controller
     {
         public ActionResult Index()
