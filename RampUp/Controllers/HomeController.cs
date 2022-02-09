@@ -16,6 +16,8 @@ namespace RampUp.Controllers
     //shelving 2
     //Suspend and Resume
     //change 4
+    //merging
+    //merging 2
     //checking
     //checking 2
     //server change
