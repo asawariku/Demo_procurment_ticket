@@ -20,6 +20,7 @@ namespace RampUp.Controllers
     //checking 2
     //server change
     //lock applied
+    //compare2
     public class HomeController : Controller
     {
         public ActionResult Index()
