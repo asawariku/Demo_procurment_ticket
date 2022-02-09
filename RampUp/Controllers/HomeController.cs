@@ -18,18 +18,7 @@ namespace RampUp.Controllers
     //change 4
     //merging
     //merging 2
-    //checking
-    //checking 2
-    //server change
-    //lock applied
-    //compare2
-    //compare
-    //tracebility
-    //checkin policy
-    //code review
-    //shelving
-    //shelving2
-    //suspend and resume
+    //merging 3
     public class HomeController : Controller
     {
         public ActionResult Index()
