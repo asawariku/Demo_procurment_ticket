@@ -24,6 +24,7 @@ namespace RampUp.Controllers
     //conflict2
     //conflict
     //shelving
+    //suspend and resume
     public class HomeController : Controller
     {
         public ActionResult Index()
