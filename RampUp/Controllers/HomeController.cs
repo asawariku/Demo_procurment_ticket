@@ -22,6 +22,7 @@ namespace RampUp.Controllers
     //merging 4
 
     //conflict2
+    //conflict
     public class HomeController : Controller
     {
         public ActionResult Index()
