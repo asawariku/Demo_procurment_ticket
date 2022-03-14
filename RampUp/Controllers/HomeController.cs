@@ -33,6 +33,7 @@ namespace RampUp.Controllers
     {
         public ActionResult Index()
         {
+           
             return View();
         }
 
