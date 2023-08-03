@@ -1,0 +1,7 @@
+﻿D:\RampUpDemo\RampUp\RampUp.Tests\Properties\AssemblyInfo.cs
+D:\RampUpDemo\RampUp\RampUp.Tests\Controllers\HomeControllerTest.cs
+D:\RampUpDemo\RampUp\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\RampUpDemo\RampUp\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\RampUpDemo\RampUp\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\RampUpDemo\RampUp\RampUp.Tests\App.config
+D:\RampUpDemo\RampUp\RampUp.Tests\packages.config

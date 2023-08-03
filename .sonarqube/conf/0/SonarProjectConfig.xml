@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>D:\RampUpDemo\RampUp\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>D:\RampUpDemo\RampUp\RampUp\RampUp.csproj</ProjectPath>
+  <FilesToAnalyzePath>D:\RampUpDemo\RampUp\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>D:\RampUpDemo\RampUp\.sonarqube\out\0</OutPath>
+  <ProjectType>Product</ProjectType>
+</SonarProjectConfig>

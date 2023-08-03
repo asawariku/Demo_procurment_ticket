@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "RampUp2",
+  "ProjectName": "RampUp2",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AX9ECazkLwzKrkHqGYtn",
+      "ProfileTimestamp": "2022-03-01T05:52:39Z"
+    }
+  }
+}
